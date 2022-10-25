@@ -16,9 +16,15 @@ form {
     background-color: #8b7b97;
     color: white;
 }
+
 .in__line {
     display: inline;
     font-size: 0.5rem;
+}
+
+button {
+    margin-inline-end: 1rem;
+    margin-block-start: 1rem;
 }
 
 .App {
