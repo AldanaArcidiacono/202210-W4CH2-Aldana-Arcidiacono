@@ -6,20 +6,27 @@
 
 input {
     display: block;
+    margin: 0.5rem;
 }
 
+form {
+    margin-block: 10px;
+    width: 100%;
+    padding: 1.5rem;
+    background-color: #8b7b97;
+    color: white;
+}
 .in__line {
     display: inline;
     font-size: 0.5rem;
 }
 
 .App {
-    background-color: #282c34;
+    background-color: #22252b;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    //font-size: calc(10px + 2vmin);
     color: white;
 }
