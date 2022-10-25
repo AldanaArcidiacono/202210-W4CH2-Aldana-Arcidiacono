@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+input {
+    display: block;
+}
+
+.in__line {
+    display: inline;
+    font-size: 0.5rem;
+}
+
+.App {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    //font-size: calc(10px + 2vmin);
+    color: white;
+}
