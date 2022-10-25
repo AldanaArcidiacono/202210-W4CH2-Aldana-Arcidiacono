@@ -1,6 +1,6 @@
 import "./form.scss";
 
-export function Form() {
+export function PersonalDataForm() {
     return (
         <form>
             <div className="personal__data">
